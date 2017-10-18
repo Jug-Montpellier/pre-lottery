@@ -26,6 +26,6 @@ export const implementations = shuffle([{
     url: 'https://lottery-rust.jug-montpellier.org',
     git: 'https://github.com/Jug-Montpellier/lottery-rust',
     developer: 'fteychene',
-    image: 'assets/rust.png',
+    image: 'assets/rust_white.png',
     avatar: 'https://avatars1.githubusercontent.com/u/1640465?v=3&s=460'
 }]);

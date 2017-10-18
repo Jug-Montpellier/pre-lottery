@@ -29,7 +29,7 @@ export const FireworkDisplay = {
     GRAVITY : 5,
     FRAME_RATE : 30,
     DEPLOYMENT_RATE : 10,
-    FIREWORK_SPEED : 4,
+    FIREWORK_SPEED : 6,
     DISPERSION_WIDTH : 1,
     DISPERSION_HEIGHT : 2,
     FIREWORK_PAYLOAD : 30,

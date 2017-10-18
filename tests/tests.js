@@ -7,6 +7,9 @@ const implementations = [{
 }, {
     language: 'Go',
     url: 'https://lottery-go.jug-montpellier.org'
+}, {
+    language: 'Rust',
+    url: 'https://lottery-rust.jug-montpellier.org'
 }];
 
 implementations.forEach((implementation) => {

@@ -21,4 +21,11 @@ export const implementations = shuffle([{
     developer: 'mackristof',
     image: 'assets/golang.png',
     avatar: 'https://avatars1.githubusercontent.com/u/678457?v=3&s=460'
+}, {
+    language: 'Rust',
+    url: 'https://lottery-rust.jug-montpellier.org',
+    git: 'https://github.com/Jug-Montpellier/lottery-rust',
+    developer: 'fteychene',
+    image: 'assets/rust.png',
+    avatar: 'https://avatars1.githubusercontent.com/u/1640465?v=3&s=460'
 }]);
